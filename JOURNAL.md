@@ -45,3 +45,13 @@ The phone plays the audio and the audio travels through the jack and then throug
 
   
 
+## 11/7/2025 5:57 PM - BOM  
+
+Okay so the last part. BOM. These are the basic and most affordable materials I could find and the price too qualifies for tier 5 and also the work hours put in this project. I basically added heatshrink tubes, wires, male 3.5mm audio jack, solar panel, led, 100ohm resistor.
+
+Here are some screenshots of price proofs although I have also added BOM.csv in my github repo
+
+![Screenshot 2025-11-07 at 5.51.54 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTEwMCwicHVyIjoiYmxvYl9pZCJ9fQ==--c6d1dc4200337c3996887eb028cbe1c645f19f04/Screenshot%202025-11-07%20at%205.51.54%20PM.png)
+![Screenshot 2025-11-07 at 5.52.40 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTEwMiwicHVyIjoiYmxvYl9pZCJ9fQ==--ee762fa39d75aa7bde86f112732bdfe971cf9b4c/Screenshot%202025-11-07%20at%205.52.40%20PM.png)![Screenshot 2025-11-07 at 5.52.05 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTEwMSwicHVyIjoiYmxvYl9pZCJ9fQ==--bba335e16bc2c997ed82d51abe8f315890ba5256/Screenshot%202025-11-07%20at%205.52.05%20PM.png)![Screenshot 2025-11-07 at 5.52.34 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTEwMywicHVyIjoiYmxvYl9pZCJ9fQ==--bfce7780493a65c18088eef8dcec46cf956a1345/Screenshot%202025-11-07%20at%205.52.34%20PM.png)![Screenshot 2025-11-07 at 5.52.21 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTEwNCwicHVyIjoiYmxvYl9pZCJ9fQ==--22eb599c4cd87ef317f5cf3798c6c377a9625484/Screenshot%202025-11-07%20at%205.52.21%20PM.png)![Screenshot 2025-11-07 at 5.52.10 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTA5OSwicHVyIjoiYmxvYl9pZCJ9fQ==--88a89c1b98ee3b9b8d7e7d3ff0f6032fce2f0ca7/Screenshot%202025-11-07%20at%205.52.10%20PM.png)
+  
+
