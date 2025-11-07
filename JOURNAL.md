@@ -13,7 +13,6 @@ Okay so this project is for my school science exhibition. Nobody from our class 
 
 I think this is gonna be easy bcz Li-Fi has been discovered well before and I already know the most about it. But as to making the project I don't know what parts etc have to be used. I just have a theoretical idea of what Li-Fi is and in order to make a project I think it would be better if I watched some videos...
 
-https://www.youtube.com/watch?v=BjYGtL2wyfU
 https://www.youtube.com/watch?v=25_dIc_4JG0
 
 https://en.wikipedia.org/wiki/Li-Fi
