@@ -15,5 +15,8 @@ https://www.youtube.com/watch?v=25_dIc_4JG0
 
 https://en.wikipedia.org/wiki/Li-Fi
 ![Screenshot 2025-11-07 at 5.03.15 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTA4OSwicHVyIjoiYmxvYl9pZCJ9fQ==--b1048b6bb6c24dc358433f1b0e68590ae687831d/Screenshot%202025-11-07%20at%205.03.15%20PM.png)
+
+<!-- Uploading Screenshot 2025-11-07 at 5.07.53 PM.png #ms-1762515517472-oojwas -->
+<!-- Uploading Screenshot 2025-11-07 at 5.08.02 PM.png #ms-1762515517473-g9jram -->
   
 
