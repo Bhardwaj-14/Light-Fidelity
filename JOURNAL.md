@@ -6,9 +6,12 @@
   ==================================================================
 -->
 
-## 11/7/2025 5:05 PM - Getting to know more about Li-Fi  
+## 11/7/2025 5:05 PM - Getting to know more about Li-Fi - Schl Science Expo  
 
-Okay so I think this is gonna be easy bcz Li-Fi has been discovered well before and I already know the most about it. But as to making the project I don't know what parts etc have to be used. I just have a theoretical idea of what Li-Fi is and in order to make a project I think it would be better if I watched some videos...
+Okay so this project is for my school science exhibition. Nobody from our class is submitting anything so me and my friends are on a mission to submit as many projects as we can so that the science expo looks full and this year's science expo becomes the best of all time. Like THE best and we need to show the Li-Fi's demo in 3 days so I really hope the review process gets real fast for this project. (reviewer)If you're reading this please make this faster...
+
+
+I think this is gonna be easy bcz Li-Fi has been discovered well before and I already know the most about it. But as to making the project I don't know what parts etc have to be used. I just have a theoretical idea of what Li-Fi is and in order to make a project I think it would be better if I watched some videos...
 
 https://www.youtube.com/watch?v=BjYGtL2wyfU
 https://www.youtube.com/watch?v=25_dIc_4JG0
