@@ -38,6 +38,7 @@ Working:
 The phone plays the audio and the audio travels through the jack and then through the LED. The LED light falls on the solar panel and then through the receiving jack the audio is player through the speaker.
 
 
-![Li-Fi PCB](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTA5MywicHVyIjoiYmxvYl9pZCJ9fQ==--8e38798d163cc7cc586228783c5e902096fd9ce3/Li-Fi%20PCB.png)
+![Li-Fi PCB](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTA5NCwicHVyIjoiYmxvYl9pZCJ9fQ==--007dc3d5b052b25c64ae08a3b5c4a3034201c545/Li-Fi%20PCB.png)
+
   
 
