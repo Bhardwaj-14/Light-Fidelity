@@ -6,7 +6,7 @@
   ==================================================================
 -->
 
-## 11/7/2025 - Getting to know more about Li-Fi  
+## 11/7/2025 5:05 PM - Getting to know more about Li-Fi  
 
 Okay so I think this is gonna be easy bcz Li-Fi has been discovered well before and I already know the most about it. But as to making the project I don't know what parts etc have to be used. I just have a theoretical idea of what Li-Fi is and in order to make a project I think it would be better if I watched some videos...
 
@@ -18,5 +18,26 @@ https://en.wikipedia.org/wiki/Li-Fi
 
 <!-- Uploading Screenshot 2025-11-07 at 5.07.53 PM.png #ms-1762515517472-oojwas -->
 <!-- Uploading Screenshot 2025-11-07 at 5.08.02 PM.png #ms-1762515517473-g9jram -->
+  
+
+## 11/7/2025 5:16 PM - Time for the Circuit Diagram  
+
+Alrightyy, all knowledge about Li-Fi has been acquired now its time for the most entertaining, important and the hard part. Circuit Diagram because a circuit can make things and break them too...
+
+I started of with a laser light as the source of data transmission but later on I realized it would be a bit difficult with the laser and also my school doesn't allow laser lights(idk why) so I gotta stick to LED. I'm using a red LED cause I like RED and moreover it has a large wavelength = can travel more(thank's to my physics teach...)
+
+The Light would be connected to a 3.5 mm audio jack, 9V battery and a 100 ohm resistor and hopefully this would make the transmission part run smoothly. I want this science project to be simple yet cool & futuristic.
+
+The audio jack would be connected to my phone/laptop where I would play any audio and the audio is transmitted through the light. 
+
+RECEIVER:
+
+Now the receiver part is gonna be easy. A solar panel and another 3.5mm jack. This jack would get plugged into a speaker. This speaker would already have a battery(basically a bluetooth speaker with an aux).
+
+Working:
+The phone plays the audio and the audio travels through the jack and then through the LED. The LED light falls on the solar panel and then through the receiving jack the audio is player through the speaker.
+
+
+![Li-Fi PCB](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTA5MywicHVyIjoiYmxvYl9pZCJ9fQ==--8e38798d163cc7cc586228783c5e902096fd9ce3/Li-Fi%20PCB.png)
   
 
